@@ -1,0 +1,2 @@
+ResMLP5resmlp_36_distilled_224	14
+ResMLP5resmlp_36_distilled_224	14 Works!

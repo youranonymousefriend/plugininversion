@@ -1,0 +1,2 @@
+ResNetModel_resnext101_32x8d	8
+ResNetModel_resnext101_32x8d	8 Works!

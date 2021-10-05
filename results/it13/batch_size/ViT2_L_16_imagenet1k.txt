@@ -1,0 +1,2 @@
+ViT2_L_16_imagenet1k	2
+ViT2_L_16_imagenet1k	2 Works!

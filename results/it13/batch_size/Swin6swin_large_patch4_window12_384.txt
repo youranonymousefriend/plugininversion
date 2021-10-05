@@ -1,0 +1,2 @@
+Swin6swin_large_patch4_window12_384	3
+Swin6swin_large_patch4_window12_384	3 Works!

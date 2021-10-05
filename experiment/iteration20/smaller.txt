@@ -1,0 +1,64 @@
+ \text{alexnet} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{DenseNet 121} & \text{densenet121} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{GoogleNet} & \text{googlenet} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{MobileNet v2} & \text{mobilenet\_v2} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{MobileNet v3-L} & \text{mobilenet\_v3\_large} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{MobileNet v3-S} & \text{mobilenet\_v3\_small} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{MNasNet 0-5} & \text{mnasnet0\_5} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{MNasNet 1-0} & \text{mnasnet1\_0} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNet18} & \text{resnet18} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNet34} & \text{resnet34} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNet50} & \text{resnet50} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNet101} & \text{resnet101} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNet152} & \text{resnet152} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNext50 32x4d} & \text{resnext50\_32x4d} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNext101 32x8d} & \text{resnext101\_32x8d} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNet50 Widex2} & \text{wide\_resnet50\_2} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResNet101 Widex2} & \text{wide\_resnet101\_2} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ShuffleNet v2-x0-5} & \text{shufflenet\_v2\_x0\_5} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ShuffleNet v2-x1-0} & \text{shufflenet\_v2\_x1\_0} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{SqueezeNet 1-0} & \text{squeezenet1\_0} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{VGG11-bn} & \text{vgg11\_bn} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{VGG13-bn} & \text{vgg13\_bn} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{VGG16-bn} & \text{vgg16\_bn} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{VGG19-bn} & \text{vgg19\_bn} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ViT B-16} & \text{B\_16\_imagenet1k} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ViT B-32} & \text{B\_32\_imagenet1k} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ViT L-16} & \text{L\_16\_imagenet1k} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ViT L-32} & \text{L\_32\_imagenet1k} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{DeiT p16-224} & \text{deit\_base\_patch16\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Deit-D p16-384} & \text{deit\_base\_distilled\_patch16\_384} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{deit p16-384} & \text{deit\_base\_patch16\_384} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Deit-tiny-D p16-224} & \text{deit\_tiny\_distilled\_patch16\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Deit-s-D p16-224} & \text{deit\_small\_distilled\_patch16\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Deit D-p16-224} & \text{deit\_base\_distilled\_patch16\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{CoaT-lite mini} & \text{coat\_lite\_mini} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{CoaT-lite small} & \text{coat\_lite\_small} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{CoaT-lite tiny} & \text{coat\_lite\_tiny} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ConViT} & \text{convit\_base} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ConViT small} & \text{convit\_small} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ConViT tiny} & \text{convit\_tiny} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Mixer 24-224} & \text{mixer\_24\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Mixer b16-224} & \text{mixer\_b16\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{mixer\_l16\_224} & \text{mixer\_l16\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{PiT b-D-224} & \text{pit\_b\_distilled\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{PiT s-224} & \text{pit\_s\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{PiT s-D-224} & \text{pit\_s\_distilled\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{PiT ti-D-224} & \text{pit\_ti\_distilled\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP 12-224} & \text{resmlp\_12\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP 12-D-224} & \text{resmlp\_12\_distilled\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP 24-224} & \text{resmlp\_24\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP 24-D-224} & \text{resmlp\_24\_distilled\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP 36-224} & \text{resmlp\_36\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP 36-D-224} & \text{resmlp\_36\_distilled\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP b-24-224} & \text{resmlp\_big\_24\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP b-24-224-1k} & \text{resmlp\_big\_24\_224\_in22ft1k} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{ResMLP b-24-D-224} & \text{resmlp\_big\_24\_distilled\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Swin w12-384} & \text{swin\_base\_patch4\_window12\_384} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Swin s-w7-224} & \text{swin\_small\_patch4\_window7\_224} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Twin pcpvt-b} & \text{twins\_pcpvt\_base} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Twins pcpvt-l} & \text{twins\_pcpvt\_large} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Twins pcpvt-s} & \text{twins\_pcpvt\_small} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Twins svt-b} & \text{twins\_svt\_base} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Twins svt-l} & \text{twins\_svt\_large} & TorchVision & \cite{Bengio+chapter2007} \\
+ \text{Twins svt-s} & \text{twins\_svt\_small} & TorchVision & \cite{Bengio+chapter2007} \\

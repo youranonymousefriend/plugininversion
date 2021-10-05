@@ -1,0 +1,2 @@
+SqueezeNet_squeezenet1_1	126
+SqueezeNet_squeezenet1_1	126 Works!

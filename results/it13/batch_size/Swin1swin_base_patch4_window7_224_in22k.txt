@@ -1,0 +1,2 @@
+Swin1swin_base_patch4_window7_224_in22k	9
+Swin1swin_base_patch4_window7_224_in22k	9 Works!

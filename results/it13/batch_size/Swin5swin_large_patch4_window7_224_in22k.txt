@@ -1,0 +1,2 @@
+Swin5swin_large_patch4_window7_224_in22k	5
+Swin5swin_large_patch4_window7_224_in22k	5 Works!

@@ -1,0 +1,2 @@
+ResNetModel_wide_resnet50_2	13
+ResNetModel_wide_resnet50_2	13 Works!

@@ -1,0 +1,2 @@
+DeiT5deit_base_distilled_patch16_224	11
+DeiT5deit_base_distilled_patch16_224	11 Works!

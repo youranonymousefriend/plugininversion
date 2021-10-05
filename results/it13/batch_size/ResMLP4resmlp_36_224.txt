@@ -1,0 +1,2 @@
+ResMLP4resmlp_36_224	14
+ResMLP4resmlp_36_224	14 Works!

@@ -1,0 +1,2 @@
+SqueezeNet_squeezenet1_0	80
+SqueezeNet_squeezenet1_0	80 Works!

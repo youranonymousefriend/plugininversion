@@ -1,0 +1,72 @@
+      
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/0.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/1.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/5.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/7.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/8.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/9.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/10.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/11.png} \\ 
+            
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/12.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/13.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/14.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/15.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/16.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/17.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/18.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/19.png} \\
+            
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/20.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/21.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/22.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/23.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/29.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/30.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/31.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/32.png} \\
+            
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/33.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/34.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/35.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/36.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/40.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/41.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/42.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/43.png} \\
+            
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/44.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/45.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/46.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/47.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/48.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/51.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/52.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/53.png} \\
+            
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/54.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/55.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/59.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/62.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/63.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/64.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/66.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/68.png} \\
+            
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/69.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/70.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/71.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/72.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/73.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/74.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/75.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/76.png} \\
+            
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/79.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/85.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/87.png} & 
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/88.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/89.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/90.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/91.png} &
+            \includegraphics[width=\varfigapplen]{iclr2022/images/various/92.png} \\

@@ -1,0 +1,2 @@
+ViT1_B_32_imagenet1k	15
+ViT1_B_32_imagenet1k	15 Works!

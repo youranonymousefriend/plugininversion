@@ -1,0 +1,2 @@
+ResNetModel_resnet18	72
+ResNetModel_resnet18	72 Works!

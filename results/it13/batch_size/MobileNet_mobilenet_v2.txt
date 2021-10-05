@@ -1,0 +1,2 @@
+MobileNet_mobilenet_v2	48
+MobileNet_mobilenet_v2	48 Works!

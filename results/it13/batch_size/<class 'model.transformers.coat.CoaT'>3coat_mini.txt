@@ -1,0 +1,2 @@
+<class 'model.transformers.coat.CoaT'>3coat_mini	1
+<class 'model.transformers.coat.CoaT'>3coat_mini	1 Works!

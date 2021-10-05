@@ -1,0 +1,2 @@
+ShuffleNet_shufflenet_v2_x1_0	129
+ShuffleNet_shufflenet_v2_x1_0	129 Works!

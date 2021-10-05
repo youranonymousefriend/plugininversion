@@ -1,0 +1,12 @@
+ConViT2convit_tiny.txt
+LeViT0levit_128.txt
+LeViT1levit_128s.txt
+LeViT2levit_192.txt
+LeViT3levit_256.txt
+LeViT4levit_384.txt
+Mixer6mixer_l16_224_in21k.txt
+PiT4pit_ti_224.txt
+PiT5pit_ti_distilled_224.txt
+ResNetModel_resnet152.txt
+ResNetModel_resnext50_32x4d.txt
+undone.txt

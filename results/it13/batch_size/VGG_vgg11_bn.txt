@@ -1,0 +1,2 @@
+VGG_vgg11_bn	12
+VGG_vgg11_bn	12 Works!

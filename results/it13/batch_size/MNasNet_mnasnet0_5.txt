@@ -1,0 +1,2 @@
+MNasNet_mnasnet0_5	97
+MNasNet_mnasnet0_5	97 Works!

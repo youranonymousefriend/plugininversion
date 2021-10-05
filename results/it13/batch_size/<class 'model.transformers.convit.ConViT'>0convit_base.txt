@@ -1,0 +1,2 @@
+<class 'model.transformers.convit.ConViT'>0convit_base	10
+<class 'model.transformers.convit.ConViT'>0convit_base	10 Works!

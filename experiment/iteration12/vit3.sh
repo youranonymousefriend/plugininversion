@@ -1,0 +1,10 @@
+python vit_optim_size_3.py -y 0 -a 3
+python vit_optim_size_3.py -y 5 -a 3
+python vit_optim_size_3.py -y 10 -a 3
+python vit_optim_size_3.py -y 15 -a 3
+python vit_optim_size_3.py -y 20 -a 3
+python vit_optim_size_3.py -y 25 -a 3
+python vit_optim_size_3.py -y 30 -a 3
+python vit_optim_size_3.py -y 35 -a 3
+python vit_optim_size_3.py -y 40 -a 3
+python vit_optim_size_3.py -y 45 -a 3

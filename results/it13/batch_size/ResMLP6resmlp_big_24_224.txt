@@ -1,0 +1,2 @@
+ResMLP6resmlp_big_24_224	3
+ResMLP6resmlp_big_24_224	3 Works!
